@@ -1,0 +1,17 @@
+FirstName = "James"
+MiddleName = "john"
+ThirdName = "simon"
+otherName = "ragnar"
+LastName = "ivar the boneless"
+
+firstName = "Bjorn ironside"
+otherName = "Merlin"
+thirdName = "Ultred"
+middleName = "Morgana"
+firstName = "Gauis"
+
+middle_name = "Barry"
+other_name = "Allen"
+third_name = "Clark"
+last_name = "Kent"
+second_name = "Authur"
